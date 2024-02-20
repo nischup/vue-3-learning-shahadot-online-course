@@ -1,0 +1,17 @@
+<template>
+    <div class="contact">
+      <h1>This is an contact page</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div>
+  </template>
+  
+  <style>
+  @media (min-width: 1024px) {
+    .contact {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+    }
+  }
+  </style>
+  
