@@ -1,0 +1,10 @@
+New Project create guideline---------
+
+01. npm create vue@latest
+
+02.
+cd <your-project-name>
+npm install
+npm run dev
+
+03.
